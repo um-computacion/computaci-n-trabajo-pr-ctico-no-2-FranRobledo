@@ -2,7 +2,7 @@
 # Trabajo Práctico 2: Desarrollo Guiado por Pruebas (TDD) - Detector de Palíndromos
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Completar con tu nombre y apellido]
+**Nombre y Apellido:** Francisco Robledo
 
 **Nota:** Este trabajo práctico es de carácter individual. Cada alumno debe realizar su propia implementación y no se permite el trabajo en grupo.
 
@@ -69,7 +69,7 @@ Para la detección de palíndromos, deberás seguir estas reglas:
 ## Ejemplos de Uso
 ```python
 import unittest
-from src.palindrome import is_palindrome
+from src.palindrome import is_palindromea
 
 class TestPalindrome(unittest.TestCase):
     def test_simple_palindromes(self):
